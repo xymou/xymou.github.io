@@ -7,25 +7,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 About me
 ------
-Hello, my name is Xinyi Mou.🤡 I am currently pursuing a Ph.D. at Fudan University, advised by Prof. [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). I am also a member of the [Data Intelligence and Social Computing Lab](http://fudan-disc.com/) (Fudan DISC). 
-
+Greetings! I am Xinyi Mou.🤡 I am currently pursuing a Ph.D. at Fudan University, advised by Prof. [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). I am also a member of the [Data Intelligence and Social Computing Lab](http://fudan-disc.com/) (Fudan DISC). 
 
 
 Research Interests
 ------
-My research perspectives of interest include natural language processing and computational social science, with special emphasis on:
-- 👩‍⚖️political actor modeling: to explore intentions and beliefs behind the languages and behaviors of politicians and other persons.
-- 📕knowledge-driven computational sociology: to leverage external knowledge to deal with some tricky situations in social media and our society.
-- 🔍bias detection: to detect and change the bias reflected in languages.
-
+My work spans Natural Language Processing and Computational Social Science. I'm particularly excited about these research thrusts:
+- 🤖Simulate Social Media Using LLMs as Agents.
+- 💻Explore and Improve capabilities of LLMs to solve social media analysis tasks.
+- 👩‍⚖️Key Figure Modeling and Discourse Analysis.
 
 
 
 Publications
 ------
+- Hanjia Lyu, Jinfa Huang, Daoan Zhang, Yongsheng Yu, **Xinyi Mou**, Jinsheng Pan, Zhengyuan Yang, Zhongyu Wei, Jiebo Luo.
+[GPT-4V(ision) as A Social Media Analysis Engine](https://arxiv.org/abs/2311.07547)
+Preprint, 2023
+
 - **Xinyi Mou**, Zhongyu Wei, Qi Zhang, Xuanjing Huang.  
 [UPPAM: A Unified Pre-training Architecture for Political Actor Modeling based on Language](https://aclanthology.org/2023.acl-long.670/)  
 ACL 2023
