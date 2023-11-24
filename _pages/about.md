@@ -24,7 +24,7 @@ My work spans Natural Language Processing and Computational Social Science. I'm 
 Publications
 ------
 - Hanjia Lyu, Jinfa Huang, Daoan Zhang, Yongsheng Yu, **Xinyi Mou**, Jinsheng Pan, Zhengyuan Yang, Zhongyu Wei, Jiebo Luo.
-[GPT-4V(ision) as A Social Media Analysis Engine](https://arxiv.org/abs/2311.07547)
+[GPT-4V(ision) as A Social Media Analysis Engine](https://arxiv.org/abs/2311.07547)  
 Preprint, 2023
 
 - **Xinyi Mou**, Zhongyu Wei, Qi Zhang, Xuanjing Huang.  
