@@ -16,7 +16,7 @@ Research Interests
 ------
 My work spans Natural Language Processing and Computational Social Science. I'm particularly excited about these research thrusts:
 - 🤖Simulate Social Media Using LLMs as Agents.
-- 💻Explore and Improve capabilities of LLMs to solve social media analysis tasks.
+- 💻Explore and Improve Capabilities of LLMs to Solve Computational Social Science Tasks.
 - 👩‍⚖️Key Figure Modeling and Discourse Analysis.
 
 
