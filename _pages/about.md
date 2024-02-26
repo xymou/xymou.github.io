@@ -23,6 +23,10 @@ My work spans Natural Language Processing and Computational Social Science. I'm 
 
 Publications
 ------
+- Kun Wu*, **Xinyi Mou***, Lanqing Xue, Zhenzhe Ying, Weiqiang Wang, Qi Zhang, Xuanjing Huang, Zhongyu Wei.  
+PASUM: A Pre-training Architecture for Social Media User Modeling based on Text Graph.  
+COLING, 2024
+
 - **Xinyi Mou**, Zejun Li, Hanjia Lyu, Jiebo Luo, Zhongyu Wei.
 Unifying Local and Global Knowledge: Empowering Large Language Models as Political Experts with Knowledge Graphs.  
 WWW, 2024
