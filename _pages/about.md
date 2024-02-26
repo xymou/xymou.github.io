@@ -23,7 +23,7 @@ My work spans Natural Language Processing and Computational Social Science. I'm 
 
 Publications
 ------
-- Kun Wu\*, ** Xinyi Mou\* **, Lanqing Xue, Zhenzhe Ying, Weiqiang Wang, Qi Zhang, Xuanjing Huang, Zhongyu Wei.  
+- Kun Wu\*, **Xinyi Mou\***, Lanqing Xue, Zhenzhe Ying, Weiqiang Wang, Qi Zhang, Xuanjing Huang, Zhongyu Wei.  
 PASUM: A Pre-training Architecture for Social Media User Modeling based on Text Graph.  
 COLING, 2024  
 \* indicates equal contributions.
