@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ------
-Greetings! I am Xinyi Mou.🤡 I am currently pursuing a Ph.D. at Fudan University, advised by Prof. [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). I am also a member of the [Data Intelligence and Social Computing Lab](http://fudan-disc.com/) (Fudan DISC). 
+Greetings! I am Xinyi Mou.🤡 I am currently pursuing a Ph.D. at Fudan University, advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei). I am also a member of the [Data Intelligence and Social Computing Lab](http://fudan-disc.com/) (Fudan DISC). 
 
 
 Research Interests
@@ -23,9 +23,10 @@ My work spans Natural Language Processing and Computational Social Science. I'm 
 
 Publications
 ------
-- Kun Wu*, **Xinyi Mou***, Lanqing Xue, Zhenzhe Ying, Weiqiang Wang, Qi Zhang, Xuanjing Huang, Zhongyu Wei.  
+- Kun Wu\*, ** Xinyi Mou\* **, Lanqing Xue, Zhenzhe Ying, Weiqiang Wang, Qi Zhang, Xuanjing Huang, Zhongyu Wei.  
 PASUM: A Pre-training Architecture for Social Media User Modeling based on Text Graph.  
-COLING, 2024
+COLING, 2024  
+\* indicates equal contributions.
 
 - **Xinyi Mou**, Zejun Li, Hanjia Lyu, Jiebo Luo, Zhongyu Wei.
 Unifying Local and Global Knowledge: Empowering Large Language Models as Political Experts with Knowledge Graphs.  
