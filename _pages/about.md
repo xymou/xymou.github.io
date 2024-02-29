@@ -41,7 +41,7 @@ COLING 2024
 Unifying Local and Global Knowledge: Empowering Large Language Models as Political Experts with Knowledge Graphs.  
 WWW 2024
 
-- Hanjia Lyu, Jinfa Huang, Daoan Zhang, Yongsheng Yu, **Xinyi Mou**, Jinsheng Pan, Zhengyuan Yang, Zhongyu Wei, Jiebo Luo.
+- Hanjia Lyu, Jinfa Huang, Daoan Zhang, Yongsheng Yu, **Xinyi Mou**, Jinsheng Pan, Zhengyuan Yang, Zhongyu Wei, Jiebo Luo.   
 [GPT-4V(ision) as A Social Media Analysis Engine](https://arxiv.org/abs/2311.07547)  
 Preprint 2023
 
