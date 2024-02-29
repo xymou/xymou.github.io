@@ -23,10 +23,18 @@ My work spans Natural Language Processing and Computational Social Science. I'm 
 
 Publications
 ------
+- **Xinyi Mou**, Zhongyu Wei, Xuanjing Huang.
+[Unveiling the Truth and Facilitating Change: Towards Agent-based Large-scale Social Movement Simulation](https://arxiv.org/abs/2402.16333)
+Preprint, 2024
+
+- Xinnong Zhang\*, Haoyu Kuang\*, **Xinyi Mou**, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.  
+[SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022)
+Preprint, 2024
+
 - Kun Wu\*, **Xinyi Mou\***, Lanqing Xue, Zhenzhe Ying, Weiqiang Wang, Qi Zhang, Xuanjing Huang, Zhongyu Wei.  
 PASUM: A Pre-training Architecture for Social Media User Modeling based on Text Graph.  
 COLING, 2024  
-\* indicates equal contributions.
+\* indicates equal contribution.
 
 - **Xinyi Mou**, Zejun Li, Hanjia Lyu, Jiebo Luo, Zhongyu Wei.
 Unifying Local and Global Knowledge: Empowering Large Language Models as Political Experts with Knowledge Graphs.  
