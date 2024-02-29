@@ -25,24 +25,24 @@ Publications
 ------
 - **Xinyi Mou**, Zhongyu Wei, Xuanjing Huang.
 [Unveiling the Truth and Facilitating Change: Towards Agent-based Large-scale Social Movement Simulation](https://arxiv.org/abs/2402.16333)
-Preprint, 2024
+Preprint 2024
 
 - Xinnong Zhang\*, Haoyu Kuang\*, **Xinyi Mou**, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.  
 [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022)
-Preprint, 2024
+Preprint 2024
 
 - Kun Wu\*, **Xinyi Mou\***, Lanqing Xue, Zhenzhe Ying, Weiqiang Wang, Qi Zhang, Xuanjing Huang, Zhongyu Wei.  
 PASUM: A Pre-training Architecture for Social Media User Modeling based on Text Graph.  
-COLING, 2024  
+COLING 2024  
 \* indicates equal contribution.
 
 - **Xinyi Mou**, Zejun Li, Hanjia Lyu, Jiebo Luo, Zhongyu Wei.
 Unifying Local and Global Knowledge: Empowering Large Language Models as Political Experts with Knowledge Graphs.  
-WWW, 2024
+WWW 2024
 
 - Hanjia Lyu, Jinfa Huang, Daoan Zhang, Yongsheng Yu, **Xinyi Mou**, Jinsheng Pan, Zhengyuan Yang, Zhongyu Wei, Jiebo Luo.
 [GPT-4V(ision) as A Social Media Analysis Engine](https://arxiv.org/abs/2311.07547)  
-Preprint, 2023
+Preprint 2023
 
 - **Xinyi Mou**, Zhongyu Wei, Qi Zhang, Xuanjing Huang.  
 [UPPAM: A Unified Pre-training Architecture for Political Actor Modeling based on Language](https://aclanthology.org/2023.acl-long.670/)  
