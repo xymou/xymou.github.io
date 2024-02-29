@@ -29,7 +29,8 @@ Preprint 2024
 
 - Xinnong Zhang\*, Haoyu Kuang\*, **Xinyi Mou**, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.  
 [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022)  
-Preprint 2024
+Preprint 2024  
+\* indicates equal contribution.
 
 - Kun Wu\*, **Xinyi Mou\***, Lanqing Xue, Zhenzhe Ying, Weiqiang Wang, Qi Zhang, Xuanjing Huang, Zhongyu Wei.  
 PASUM: A Pre-training Architecture for Social Media User Modeling based on Text Graph.  
