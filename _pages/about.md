@@ -9,14 +9,14 @@ redirect_from:
 ---
 About me
 ------
-Greetings! I am Xinyi Mou.🤡 I am currently pursuing a Ph.D. at Fudan University, advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei). I am also a member of the [Data Intelligence and Social Computing Lab](http://fudan-disc.com/) (Fudan DISC). 
+Greetings! I am Xinyi Mou.🤡 I am currently pursuing a Ph.D. at Fudan University, where I'm fortunate to be advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei). I am also a member of the [Data Intelligence and Social Computing Lab](http://fudan-disc.com/) (Fudan DISC). 
 
 
 Research Interests
 ------
 My work spans Natural Language Processing and Computational Social Science. I'm particularly excited about these research thrusts:
-- 🤖Simulate Social Media Using LLMs as Agents.
-- 💻Explore and Improve Capabilities of LLMs to Solve Computational Social Science Tasks.
+- 🤖Social Media Simulation empowered by Large Language Model.
+- 💻Explore and Improve the Capabilities of LLMs to Solve Computational Social Science Tasks.
 - 👩‍⚖️Key Figure Modeling and Discourse Analysis.
 
 
@@ -30,12 +30,12 @@ Preprint 2024
 - Xinnong Zhang\*, Haoyu Kuang\*, **Xinyi Mou**, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.  
 [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022)   
 Preprint 2024  
-\* indicates equal contribution.
+\* indicates equal contributions.
 
 - Kun Wu\*, **Xinyi Mou\***, Lanqing Xue, Zhenzhe Ying, Weiqiang Wang, Qi Zhang, Xuanjing Huang, Zhongyu Wei.  
 PASUM: A Pre-training Architecture for Social Media User Modeling based on Text Graph.  
 COLING 2024  
-\* indicates equal contribution.
+\* indicates equal contributions.
 
 - **Xinyi Mou**, Zejun Li, Hanjia Lyu, Jiebo Luo, Zhongyu Wei.
 Unifying Local and Global Knowledge: Empowering Large Language Models as Political Experts with Knowledge Graphs.  
