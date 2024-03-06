@@ -25,12 +25,14 @@ Publications
 ------
 - **Xinyi Mou**, Zhongyu Wei, Xuanjing Huang.   
 [Unveiling the Truth and Facilitating Change: Towards Agent-based Large-scale Social Movement Simulation](https://arxiv.org/abs/2402.16333)   
-Preprint 2024
+Preprint 2024  
+[project website](https://xymou.github.io/social_simulation/)
 
 - Xinnong Zhang\*, Haoyu Kuang\*, **Xinyi Mou**, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.  
 [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022)   
 Preprint 2024  
-\* indicates equal contributions.
+\* indicates equal contributions.  
+[project website](https://somelvlm.github.io/)
 
 - Kun Wu\*, **Xinyi Mou\***, Lanqing Xue, Zhenzhe Ying, Weiqiang Wang, Qi Zhang, Xuanjing Huang, Zhongyu Wei.  
 PASUM: A Pre-training Architecture for Social Media User Modeling based on Text Graph.  
