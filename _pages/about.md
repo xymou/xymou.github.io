@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ------
-Greetings! I am Xinyi Mou.🤡 I am currently pursuing a Ph.D. at Fudan University, where I'm fortunate to be advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei). I am also a member of the [Data Intelligence and Social Computing Lab](http://fudan-disc.com/) (Fudan DISC). During my PhD, I've spent a precious time with the THUNLP Lab at Tsinghua University, advised by Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), Prof. [Huimin Chen](https://nlp.csai.tsinghua.edu.cn/~chm/) and Dr. [Chen Qian](https://qianc62.github.io/).
+Greetings! I am Xinyi Mou.🤡 I am currently pursuing a Ph.D. at Fudan University, where I'm advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei). I am also a member of the [Data Intelligence and Social Computing Lab](http://fudan-disc.com/) (Fudan DISC). During my PhD, I've spent a precious time with the THUNLP Lab at Tsinghua University, advised by Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), Prof. [Huimin Chen](https://nlp.csai.tsinghua.edu.cn/~chm/) and Dr. [Chen Qian](https://qianc62.github.io/).
 
 
 Research Interests
