@@ -9,13 +9,13 @@ redirect_from:
 ---
 About me
 ------
-Greetings! I am Xinyi Mou.🤡 I am currently pursuing a Ph.D. at Fudan University, where I'm fortunate to be advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei). I am also a member of the [Data Intelligence and Social Computing Lab](http://fudan-disc.com/) (Fudan DISC). 
+Greetings! I am Xinyi Mou.🤡 I am currently pursuing a Ph.D. at Fudan University, where I'm fortunate to be advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei). I am also a member of the [Data Intelligence and Social Computing Lab](http://fudan-disc.com/) (Fudan DISC). During my PhD, I've spent a precious time with the THUNLP Lab at Tsinghua University, advised by Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), Prof. [Huimin Chen](https://nlp.csai.tsinghua.edu.cn/~chm/) and Dr. [Chen Qian](https://qianc62.github.io/).
 
 
 Research Interests
 ------
 My work spans Natural Language Processing and Computational Social Science. I'm particularly excited about these research thrusts:
-- 🤖Social Media Simulation empowered by Large Language Model.
+- 🤖Social Simulation empowered by Large Language Model.
 - 💻Explore and Improve the Capabilities of LLMs to Solve Computational Social Science Tasks.
 - 👩‍⚖️Key Figure Modeling and Discourse Analysis.
 
@@ -58,5 +58,11 @@ COLING 2022
 ACL 2021
 
 
-
+Professional Service
+------
+- Reviewer
+  - ACL Rolling Review, ACL, EMNLP, IJCAI, NLPCC, ACM Trans. on ALLIP (TALLIP)
+- Invited Talk
+  - Jul 2024, Talk "How to Conduct Interdisciplinary Research? Taking Character Modeling as an Example." at CCAC 2024 Student Seminar.
+  - Apr 2024, Talk "Agent-based Social Simulation" at University of International Relations.
 
