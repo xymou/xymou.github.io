@@ -23,6 +23,12 @@ My work spans Natural Language Processing and Computational Social Science. I'm 
 
 Publications
 ------
+*\* indicates equal contributions.*  
+
+- **Xinyi Mou\***, Jingcong Liang\*, Jiayu Lin\*, Xinnong Zhang\*, Xiawei Liu, Shiyue Yang, Rong Ye, Lei Chen, Haoyu Kuang, Xuanjing Huang, Zhongyu Wei.  
+[AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios](https://arxiv.org/abs/2410.19346)  
+Preprint 2024
+
 - **Xinyi Mou**, Zhongyu Wei, Xuanjing Huang.   
 [Unveiling the Truth and Facilitating Change: Towards Agent-based Large-scale Social Movement Simulation](https://arxiv.org/abs/2402.16333)   
 ACL-Findings 2024  
@@ -30,14 +36,12 @@ ACL-Findings 2024
 
 - Xinnong Zhang\*, Haoyu Kuang\*, **Xinyi Mou**, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.  
 [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022)   
-ACL-Findings 2024  
-\* indicates equal contributions.  
+ACL-Findings 2024   
 [project website](https://somelvlm.github.io/)
 
 - Kun Wu\*, **Xinyi Mou\***, Lanqing Xue, Zhenzhe Ying, Weiqiang Wang, Qi Zhang, Xuanjing Huang, Zhongyu Wei.  
 [PASUM: A Pre-training Architecture for Social Media User Modeling based on Text Graph](https://aclanthology.org/2024.lrec-main.1107/)  
 COLING 2024  
-\* indicates equal contributions.
 
 - **Xinyi Mou**, Zejun Li, Hanjia Lyu, Jiebo Luo, Zhongyu Wei.  
 [Unifying Local and Global Knowledge: Empowering Large Language Models as Political Experts with Knowledge Graphs](https://dl.acm.org/doi/10.1145/3589334.3645616)  
