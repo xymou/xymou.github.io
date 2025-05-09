@@ -25,11 +25,11 @@ Publications
 ------
 *\* indicates equal contributions.*  
 
-- **Xinyi Mou\***, Xuanwen Ding\*, Qi He\*, Liang Wang\*, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei
+- **Xinyi Mou\***, Xuanwen Ding\*, Qi He\*, Liang Wang\*, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei.  
 [From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/pdf/2412.03563)
 Preprint 2024
 
-- Xinnong Zhang\*, Jiayu Lin\*, **Xinyi Mou\***, Shiyue Yang, Xiawei Liu, Libo Sun, Hanjia Lyu, Yihang Yang, Weihong Qi, Yue Chen, Guanying Li, Ling Yan, Yao Hu, Siming Chen, Yu Wang, Jingxuan Huang, Jiebo Luo, Shiping Tang, Libo Wu, Baohua Zhou, Zhongyu Wei
+- Xinnong Zhang\*, Jiayu Lin\*, **Xinyi Mou\***, Shiyue Yang, Xiawei Liu, Libo Sun, Hanjia Lyu, Yihang Yang, Weihong Qi, Yue Chen, Guanying Li, Ling Yan, Yao Hu, Siming Chen, Yu Wang, Jingxuan Huang, Jiebo Luo, Shiping Tang, Libo Wu, Baohua Zhou, Zhongyu Wei.  
 [SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users](https://arxiv.org/pdf/2504.10157)
 Preprint 2025
 
