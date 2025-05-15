@@ -28,16 +28,16 @@ Publications
 **LLM-driven Social Simulation**
 
 - **Xinyi Mou**, Chen Qian, Wei Liu, Xuanjing Huang, Zhongyu Wei.  
-[EcoLANG: Efficient and Effective Agent Communication Language Induction for Social Simulation](https://arxiv.org/abs/2505.06904)
+[EcoLANG: Efficient and Effective Agent Communication Language Induction for Social Simulation](https://arxiv.org/abs/2505.06904)  
 Preprint 2025  
 
 - **Xinyi Mou\***, Xuanwen Ding\*, Qi He\*, Liang Wang\*, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei.  
-[From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/pdf/2412.03563)
+[From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/pdf/2412.03563)  
 Preprint 2024  
 [our repo](https://github.com/fudandisc/socialagent)
 
 - Xinnong Zhang\*, Jiayu Lin\*, **Xinyi Mou\***, Shiyue Yang, Xiawei Liu, Libo Sun, Hanjia Lyu, Yihang Yang, Weihong Qi, Yue Chen, Guanying Li, Ling Yan, Yao Hu, Siming Chen, Yu Wang, Jingxuan Huang, Jiebo Luo, Shiping Tang, Libo Wu, Baohua Zhou, Zhongyu Wei.  
-[SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users](https://arxiv.org/pdf/2504.10157)
+[SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users](https://arxiv.org/pdf/2504.10157)  
 Preprint 2025
 
 - **Xinyi Mou\***, Jingcong Liang\*, Jiayu Lin\*, Xinnong Zhang\*, Xiawei Liu, Shiyue Yang, Rong Ye, Lei Chen, Haoyu Kuang, Xuanjing Huang, Zhongyu Wei.  
