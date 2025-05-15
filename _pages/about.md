@@ -27,6 +27,10 @@ Publications
 
 **LLM-driven Social Simulation**
 
+- **Xinyi Mou**, Chen Qian, Wei Liu, Xuanjing Huang, Zhongyu Wei.  
+[EcoLANG: Efficient and Effective Agent Communication Language Induction for Social Simulation](https://arxiv.org/abs/2505.06904)
+Preprint 2025  
+
 - **Xinyi Mou\***, Xuanwen Ding\*, Qi He\*, Liang Wang\*, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei.  
 [From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/pdf/2412.03563)
 Preprint 2024  
