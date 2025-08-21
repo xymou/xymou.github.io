@@ -9,13 +9,13 @@ redirect_from:
 ---
 About me
 ------
-Greetings! I am Xinyi Mou.🤡 I am currently pursuing a Ph.D. at Fudan University, where I'm advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei). I am also a member of the [Data Intelligence and Social Computing Lab](http://fudan-disc.com/) (Fudan DISC). During my PhD, I've spent a precious time with the THUNLP Lab at Tsinghua University, advised by Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), Prof. [Huimin Chen](https://nlp.csai.tsinghua.edu.cn/~chm/) and Dr. [Chen Qian](https://qianc62.github.io/).
+Greetings! I am Xinyi Mou.🤡 I am currently pursuing a Ph.D. at Fudan University, where I'm advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei). I am also a member of the [Data Intelligence and Social Computing Lab](http://fudan-disc.com/) (Fudan DISC). During my PhD, I've spent a precious time with the THUNLP Lab at Tsinghua University, advised by Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), Prof. [Huimin Chen](https://nlp.csai.tsinghua.edu.cn/~chm/) and Prof. [Chen Qian](https://qianc62.github.io/).
 
 
 Research Interests
 ------
 My work spans Natural Language Processing and Computational Social Science. I'm particularly excited about these research thrusts:
-- 🤖Social Simulation empowered by Large Language Model.
+- 🤖Social Simulation empowered by Large Language Models.
 - 💻Explore and Improve the Capabilities of LLMs to Solve Computational Social Science Tasks.
 - 👩‍⚖️Key Figure Modeling and Discourse Analysis.
 
@@ -29,7 +29,7 @@ Publications
 
 - **Xinyi Mou**, Chen Qian, Wei Liu, Xuanjing Huang, Zhongyu Wei.  
 [EcoLANG: Efficient and Effective Agent Communication Language Induction for Social Simulation](https://arxiv.org/abs/2505.06904)  
-Preprint 2025  
+EMNLP-Findings 2025  
 
 - **Xinyi Mou\***, Xuanwen Ding\*, Qi He\*, Liang Wang\*, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei.  
 [From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/pdf/2412.03563)  
