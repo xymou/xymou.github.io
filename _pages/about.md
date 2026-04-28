@@ -20,6 +20,12 @@ My work spans Natural Language Processing and Computational Social Science. I'm 
 - 👩‍⚖️User Modeling and Discourse Analysis.
 
 
+News
+------
+- 04.2026 I finish my visit to King's 🏛😢Many thanks to Prof. He and all my collaborators and friends!
+- 02.2026 Our social simulation survey has been accepted by ACM Computing Survey!😊
+
+
 
 Publications
 ------
@@ -63,7 +69,7 @@ ACL-Findings 2024
 
 **User Modeling and Personalization**
 
-- Liang Wang\*, **Xinyi Mou\***, Xiaoyou Liu, Xuanjing Huang, Zhongyu Wei
+- Liang Wang\*, **Xinyi Mou\***, Xiaoyou Liu, Xuanjing Huang, Zhongyu Wei  
 [CURP: Codebook-based Continuous User Representation for Personalized Generation with LLMs](https://arxiv.org/pdf/2602.00742)  
 Preprint, 2026
 
