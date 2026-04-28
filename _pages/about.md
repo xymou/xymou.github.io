@@ -101,6 +101,7 @@ Professional Service
 - Reviewer
   - ACL Rolling Review, ACL, EMNLP, IJCAI, NLPCC, ACM Trans. on ALLIP (TALLIP)
 - Invited Talk
+  - Jul 2025, Tutorial on "LLM-driven Social Simulation" at Summer School of Fudan University.
   - Jul 2024, Talk "How to Conduct Interdisciplinary Research? Taking Character Modeling as an Example." at CCAC 2024 Student Seminar.
   - Apr 2024, Talk "Agent-based Social Simulation" at University of International Relations.
 
