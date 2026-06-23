@@ -78,6 +78,10 @@ ACL-Findings 2024
 
 **User Modeling and Personalization**
 
+- Liang Wang\*, **Xinyi Mou\***, Xiaoyou Liu, Tiannan Wang, Yuqing Wang, Zhongyu Wei.  
+[Beyond Isolated Behaviors: Hierarchical User Modeling for LLM Personalization](https://arxiv.org/pdf/2606.02300)  
+Preprint, 2026
+
 - Liang Wang\*, **Xinyi Mou\***, Xiaoyou Liu, Xuanjing Huang, Zhongyu Wei  
 [CURP: Codebook-based Continuous User Representation for Personalized Generation with LLMs](https://arxiv.org/pdf/2602.00742)  
 Preprint, 2026
