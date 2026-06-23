@@ -22,7 +22,7 @@ My work spans Natural Language Processing and Computational Social Science. I'm 
 
 News
 ------
-- 06.2026 Our paper [Large Language Models Hack Rewards, and Society]() has been featured in [Science News](). Many thanks to Wei!
+- 06.2026 Our paper [Large Language Models Hack Rewards, and Society](https://arxiv.org/pdf/2606.04075) has been featured in [Science News](https://www.science.org/content/article/ai-models-have-troubling-knack-discovering-legal-loopholes). This is a collaborative work initiated during my visit to King's College London. Many thanks to Wei, Hanqi and Prof. He!
 - 04.2026 I finish my visit to King's 🏛😢Many thanks to Prof. He and all my collaborators and friends!
 - 02.2026 Our social simulation survey has been accepted by ACM Computing Survey!😊
 
