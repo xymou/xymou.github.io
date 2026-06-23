@@ -22,6 +22,7 @@ My work spans Natural Language Processing and Computational Social Science. I'm 
 
 News
 ------
+- 06.2026 Our paper [Large Language Models Hack Rewards, and Society]() has been featured in [Science News](). Many thanks to Wei!
 - 04.2026 I finish my visit to King's 🏛😢Many thanks to Prof. He and all my collaborators and friends!
 - 02.2026 Our social simulation survey has been accepted by ACM Computing Survey!😊
 
@@ -32,6 +33,14 @@ Publications
 *\* indicates equal contributions.*  
 
 **LLM-driven Social Simulation**
+
+- Wei Liu\*, **Xinyi Mou\***, Hanqi Yan, Zhongyu Wei, Yulan He.  
+[Large Language Models Hack Rewards, and Society](https://arxiv.org/pdf/2606.04075)  
+Preprint 2026
+
+- **Xinyi Mou\***, Siyuan Wang\*, Zejun Li, Yulan He, Zhongyu Wei.  
+[HyLaT: Efficient Multi-Agent Communication via Hybrid Latent-Text Protocol](https://arxiv.org/pdf/2605.25421)  
+Preprint 2026
 
 - **Xinyi Mou**, Chen Qian, Wei Liu, Xuanjing Huang, Zhongyu Wei.  
 [EcoLANG: Efficient and Effective Agent Communication Language Induction for Social Simulation](https://arxiv.org/abs/2505.06904)  
