@@ -65,17 +65,6 @@ ACL-Findings 2024
 [project website](https://xymou.github.io/social_simulation/)
 
 
-**Social Media Analysis**
-- Hanjia Lyu, Jinfa Huang, Daoan Zhang, Yongsheng Yu, **Xinyi Mou**, Jinsheng Pan, Zhengyuan Yang, Zhongyu Wei, Jiebo Luo.  
-[GPT-4V(ision) as A Social Media Analysis Engine](https://arxiv.org/abs/2311.07547)  
-ACM TIST 2025
-
-- Xinnong Zhang\*, Haoyu Kuang\*, **Xinyi Mou**, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.  
-[SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022)   
-ACL-Findings 2024   
-[project website](https://somelvlm.github.io/)
-
-
 **User Modeling and Personalization**
 
 - Liang Wang\*, **Xinyi Mou\***, Xiaoyou Liu, Tiannan Wang, Yuqing Wang, Zhongyu Wei.  
@@ -107,6 +96,20 @@ COLING 2022
 - **Xinyi Mou**, Zhongyu Wei, Lei Chen, Shangyi Ning, Yancheng He, Changjian Jiang, Xuanjing Huang.  
 [Align Voting Behavior with Public Statements for Legislator Representation Learning](https://aclanthology.org/2021.acl-long.99/)  
 ACL 2021
+
+
+**Social Media Analysis**
+- Hanjia Lyu, Jinfa Huang, Daoan Zhang, Yongsheng Yu, **Xinyi Mou**, Jinsheng Pan, Zhengyuan Yang, Zhongyu Wei, Jiebo Luo.  
+[GPT-4V(ision) as A Social Media Analysis Engine](https://arxiv.org/abs/2311.07547)  
+ACM TIST 2025
+
+
+- Xinnong Zhang\*, Haoyu Kuang\*, **Xinyi Mou**, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.  
+[SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022)   
+ACL-Findings 2024   
+[project website](https://somelvlm.github.io/)
+
+
 
 
 Professional Service
